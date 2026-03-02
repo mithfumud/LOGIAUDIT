@@ -1,5 +1,4 @@
 # 🌿 LogiAudit: Logistics Billing Intelligence
-**Developed for Mosaic Wellness**
 
 LogiAudit is a deterministic, enterprise-grade logistics reconciliation engine built to identify billing leakages, fraud, and overcharges from delivery partners. By cross-referencing Courier Invoices against agreed Rate Contracts and internal Inventory ground-truth, LogiAudit catches discrepancies in seconds with **Zero AI Hallucinations**.
 
