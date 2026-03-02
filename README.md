@@ -1,10 +1,4 @@
-# 🌿 LogiAudit: Logistics Billing Intelligence
-
-LogiAudit is a deterministic, enterprise-grade logistics reconciliation engine built to identify billing leakages, fraud, and overcharges from delivery partners. By cross-referencing Courier Invoices against agreed Rate Contracts and internal Inventory ground-truth, LogiAudit catches discrepancies in seconds with **Zero AI Hallucinations**.
-
----
-
-# LogiAudit: Smart Logistics Billing Checker
+# 🌿 LogiAudit: Smart Logistics Billing Checker
 
 LogiAudit is an automated tool built to catch billing errors, ghost shipments, and hidden fees from delivery partners. By comparing courier invoices against your company's actual shipment data and agreed-upon contracts, this app delivers 100% mathematical accuracy to protect profit margins.
 
