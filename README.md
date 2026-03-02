@@ -1,6 +1,6 @@
 # 🌿 LogiAudit: Smart Logistics Billing Checker
 
-🔗 **Live Application:** [Insert your Streamlit App Link Here]
+🔗 **Live Application:** https://logiaudit.streamlit.app/
 
 LogiAudit is an automated tool built to catch billing errors, ghost shipments, and hidden fees from delivery partners. By comparing courier invoices against your company's actual shipment data and agreed-upon contracts, this app delivers 100% mathematical accuracy to protect profit margins.
 
